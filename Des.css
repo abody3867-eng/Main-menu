@@ -1,11 +1,11 @@
 @font-face {
     font-family: Arabic;
-    src: url(./Fonts/Omar_Arabic_Omar_Regular/Omar_Arabic_Omar_Regular.otf);
+    src: url(Omar_Arabic_Omar_Regular.otf);
 }
 
 @font-face {
     font-family: Arabic2;
-    src: url(./Fonts/AlanSans/AlanSans_Bold.otf);
+    src: url(AlanSans_Bold.otf);
 }
 
 .مراتب_الدين{
