@@ -1,0 +1,105 @@
+@font-face {
+    font-family: Arabic;
+    src: url(./Omar_Arabic_Omar_Regular.otf);
+}
+
+@font-face {
+    font-family: Arabic2;
+    src: url(./AlanSans_Bold.otf);
+}
+
+a{
+    text-decoration: none;
+}
+
+.مراتب_الدين{
+    font-family: Arabic;
+    background-color: #787106;
+    text-align: center;
+    font-size: 3em;
+    margin: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    border-radius: 999px;
+    border-color: #DCCE00;
+    border-style: dashed;
+    color: #FFFFFF;
+}
+
+#List{
+    font-size: 3em;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: Arabic;
+    background-color: #e3dc7e;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 100px;
+}
+
+.اركان_الاسلام{
+    margin-left: 16px;
+    background-color: #958f3f;
+    border-radius: 16px;
+    border-color: black;
+    border-style: double;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.اركان_الاسلام:hover{
+    background-color: #595526;
+    color: white;
+    border-color: white;
+    padding: 20px;
+}
+
+.اركان_الايمان{
+    margin-left: 16px;
+    background-color: #958f3f;
+    border-radius: 16px;
+    border-color: black;
+    border-style: double;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.اركان_الايمان:hover{
+    background-color: #595526;
+    color: white;
+    border-color: white;
+    padding: 20px;
+}
+
+.ركن_الاحسان{
+    margin-left: 16px;
+    background-color: #958f3f;
+    border-radius: 16px;
+    border-color: black;
+    border-style: double;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.ركن_الاحسان:hover{
+    background-color: #595526;
+    color: white;
+    border-color: white;
+    padding: 20px;
+}
+
+#حقوق{
+    background-color: #514e2d;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+    margin-right: 80px;
+    margin-left: 80px;
+    border-radius: 30px;
+    font-family: Arabic2;
+    border-color: #5E93FF;
+    border-style: dotted;
+    color: #FAEDCD;
+}
+

@@ -1,0 +1,267 @@
+@font-face {
+    font-family: Arabic;
+    src: url(./Omar_Arabic_Omar_Regular.otf);
+}
+
+@font-face {
+    font-family: Arabic2;
+    src: url(./AlanSans_Bold.otf);
+}
+
+a{
+    text-decoration: none;
+}
+
+.First{
+    background-color: #787106;
+    text-align: center;
+    font-family: Arabic;
+    border-radius: 32px;
+    border-color: black;
+    border-style: double;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.FirstT{
+    background-color: #958F3F;
+    padding: 32px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: dashed;
+    color: #2B2B2B;
+    
+}
+
+.FirstT2{
+    background-color: #514E2D;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-color: #7E793A;
+    border-style: double;
+    color: #DBDBDB;
+}
+
+.FirstI{
+    width: 500px;
+    background-color: #BBB564;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.FirstL{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.Second{
+    background-color: #787106;
+    text-align: center;
+    font-family: Arabic;
+    border-radius: 32px;
+    border-color: black;
+    border-style: double;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.SecondT{
+    background-color: #958F3F;
+    padding: 32px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: dashed;
+    color: #2B2B2B;
+}
+
+.SecondT2{
+    background-color: #514E2D;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-color: #7E793A;
+    border-style: double;
+    color: #DBDBDB;
+}
+
+.SecondI{
+    width: 500px;
+    background-color: #BBB564;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.SecondL{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.Third{
+    background-color: #787106;
+    text-align: center;
+    font-family: Arabic;
+    border-radius: 32px;
+    border-color: black;
+    border-style: double;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.ThirdT{
+    background-color: #958F3F;
+    padding: 32px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: dashed;
+    color: #2B2B2B;
+}
+
+.ThirdT2{
+    background-color: #514E2D;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-color: #7E793A;
+    border-style: double;
+    color: #DBDBDB;
+}
+
+.ThirdI{
+    width: 500px;
+    background-color: #BBB564;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.ThirdL{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.ThirdLIA{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.Fourth{
+    background-color: #787106;
+    text-align: center;
+    font-family: Arabic;
+    border-radius: 32px;
+    border-color: black;
+    border-style: double;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.FourthT{
+    background-color: #958F3F;
+    padding: 32px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: dashed;
+    color: #2B2B2B;
+}
+
+.FourthT2{
+    background-color: #514E2D;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-color: #7E793A;
+    border-style: double;
+    color: #DBDBDB;
+}
+
+.FourthI{
+    width: 500px;
+    background-color: #BBB564;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.FourthL{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.Fifth{
+    background-color: #787106;
+    text-align: center;
+    font-family: Arabic;
+    border-radius: 32px;
+    border-color: black;
+    border-style: double;
+    font-size: 2rem;
+    margin-top: 40px;
+}
+
+.FifthT{
+    background-color: #958F3F;
+    padding: 32px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: dashed;
+    color: #2B2B2B;
+}
+
+.FifthT2{
+    background-color: #514E2D;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-color: #7E793A;
+    border-style: double;
+    color: #DBDBDB;
+}
+
+.FifthI{
+    width: 500px;
+    background-color: #BBB564;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: black;
+}
+
+.FifthL{
+    background-color: #E3DC7E;
+    padding: 30px;
+    font-size: 2rem;
+}
+
+.BackC{
+    margin-top: 40px;
+}
+
+.Back{
+    background-color: #C14B37;
+    padding: 30px;
+    border-color: black;
+    border-style: groove;
+    border-radius: 80px;
+    color: black;
+    margin-top: 16px;
+    font-size: 30px;
+    font-family: Arabic2;
+}
+.Back:hover{
+    color: white;
+    background-color: #823326;
+    border-color: white;
+}
+
